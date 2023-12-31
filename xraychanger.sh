@@ -29,7 +29,7 @@ echo -e "\e[36m╒════════════════════�
 echo -e " \E[0;47;30m               XRAY-CORE CHANGER            \E[0m"
 echo -e "\e[36m╘════════════════════════════════════════════╛\033[0m
 \033[1;37mXray-core Changer By NiLphreakz\033[0m
-\033[1;37mTelegram : https://t.me/NiLphreakz \033[0m"
+\033[1;37mTelegram : https://t.me/Nilphreakz \033[0m"
 echo -e 
 echo -e "
 \033[1;36m\033[0m Current version : ${orange}v${current_version} ${NC}
